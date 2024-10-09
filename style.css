@@ -1,0 +1,12 @@
+header{
+    text-align: center;
+    background-color: rgb(52, 121, 179);
+    border: 2px solid black;
+    height: 300px;
+    
+}
+#foto{
+    height: 200px;
+    width: 200px;
+
+}
